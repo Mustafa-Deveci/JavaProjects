@@ -13,3 +13,4 @@ public class DataTypes {
         System.out.println(" Double min : " + Double.MIN_VALUE + " max : " + Float.MAX_VALUE + " byte (space used in memory) : " + Double.SIZE);
     }
 }
+
