@@ -70,8 +70,8 @@ public class Calculator {
 
         Scanner s = new Scanner(System.in);
         System.out.println(" select the action you want to do : ");
-        int choie = s.nextInt();
-        return choie;
+        int choice = s.nextInt();
+        return choice;
 
     }
 }
