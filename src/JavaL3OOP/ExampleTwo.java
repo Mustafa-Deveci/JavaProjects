@@ -10,7 +10,6 @@ public class ExampleTwo {
 
             Ogrenci yeni = new Ogrenci(rastgeleID, rastgeleNotDegeri);
             tumOgrenciler[i] = yeni;
-//arrays sort aslında sıralama yapar ancak burada ıd ve not değeri 2 tane değer . bunu arrayssort ile yapamayız 2 değein hangisine göre sıralama yapacağını bilemyiro. ondan dolayı manuel sıralama yöntemini kullanacağız
         }
         ogrencileriNotlaraGoreSirala(tumOgrenciler);
         for (int i = 0; i < 100; i++) {
